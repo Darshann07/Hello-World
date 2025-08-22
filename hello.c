@@ -3,3 +3,5 @@ int main() {
     printf("Hello, World!");
     return 0;
 }
+
+printf("Exploring commits in GitHub!");
